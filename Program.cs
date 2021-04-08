@@ -9,15 +9,30 @@ namespace GradeBook
         {
             var book = new Book("Scott's Grades Book");
 
-            Console.WriteLine("Please enter the number of grades");
-
             while (true)
             {
-                Console.WriteLine("Enter a grade or 'Q' to Statistic");
+                Console.WriteLine("Enter a grade (0-100) or 'Q' to Statistic");
                 var input = Console.ReadLine();
 
-                if (input == "q" || input == "Q") { break; }            
-                book.AddGrade(double.Parse(input));
+                if (input == "q" || input == "Q") { break; }
+                try
+                {
+                    book.AddGrade(double.Parse(input));
+                }
+
+                catch (ArgumentException ex)
+                {
+                    Console.WriteLine(ex.Message);
+                    throw;
+                }
+                catch (FormatException ex)
+                {
+                    Console.WriteLine(ex.Message);
+                }
+                finally
+                {
+                    Console.ReadLine();
+                }
             }
 
                 /*book.AddGrade(89.1);

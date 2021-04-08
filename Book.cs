@@ -22,7 +22,7 @@ namespace GradeBook
             else
             {
                 throw new ArgumentException($"Grade invalid {nameof(grade)}");
-            }    
+            }
 
         }
 
