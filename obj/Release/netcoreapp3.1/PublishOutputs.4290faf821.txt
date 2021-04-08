@@ -1,0 +1,5 @@
+C:\Users\redbu\Desktop\Study\Programming\FirstProg1\FirstProgUni\bin\Release\netcoreapp3.1\publish\FirstProgUnit.exe
+C:\Users\redbu\Desktop\Study\Programming\FirstProg1\FirstProgUni\bin\Release\netcoreapp3.1\publish\FirstProgUnit.dll
+C:\Users\redbu\Desktop\Study\Programming\FirstProg1\FirstProgUni\bin\Release\netcoreapp3.1\publish\FirstProgUnit.deps.json
+C:\Users\redbu\Desktop\Study\Programming\FirstProg1\FirstProgUni\bin\Release\netcoreapp3.1\publish\FirstProgUnit.runtimeconfig.json
+C:\Users\redbu\Desktop\Study\Programming\FirstProg1\FirstProgUni\bin\Release\netcoreapp3.1\publish\FirstProgUnit.pdb

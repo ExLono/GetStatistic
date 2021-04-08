@@ -31,6 +31,8 @@ namespace GradeBook
             Console.WriteLine($"The avarege is {stats.Avarage:N1}");
             Console.WriteLine($"The letter grade is {stats.Letter}");
 
+            Console.ReadLine();
+
         }
     }
 }

@@ -1,0 +1,13 @@
+C:\Users\redbu\Desktop\Study\Programming\FirstProg1\FirstProgUni\bin\Release\netcoreapp3.1\FirstProgUnit.exe
+C:\Users\redbu\Desktop\Study\Programming\FirstProg1\FirstProgUni\bin\Release\netcoreapp3.1\FirstProgUnit.deps.json
+C:\Users\redbu\Desktop\Study\Programming\FirstProg1\FirstProgUni\bin\Release\netcoreapp3.1\FirstProgUnit.runtimeconfig.json
+C:\Users\redbu\Desktop\Study\Programming\FirstProg1\FirstProgUni\bin\Release\netcoreapp3.1\FirstProgUnit.runtimeconfig.dev.json
+C:\Users\redbu\Desktop\Study\Programming\FirstProg1\FirstProgUni\bin\Release\netcoreapp3.1\FirstProgUnit.dll
+C:\Users\redbu\Desktop\Study\Programming\FirstProg1\FirstProgUni\bin\Release\netcoreapp3.1\FirstProgUnit.pdb
+C:\Users\redbu\Desktop\Study\Programming\FirstProg1\FirstProgUni\obj\Release\netcoreapp3.1\FirstProgUnit.csprojAssemblyReference.cache
+C:\Users\redbu\Desktop\Study\Programming\FirstProg1\FirstProgUni\obj\Release\netcoreapp3.1\FirstProgUnit.AssemblyInfoInputs.cache
+C:\Users\redbu\Desktop\Study\Programming\FirstProg1\FirstProgUni\obj\Release\netcoreapp3.1\FirstProgUnit.AssemblyInfo.cs
+C:\Users\redbu\Desktop\Study\Programming\FirstProg1\FirstProgUni\obj\Release\netcoreapp3.1\FirstProgUnit.csproj.CoreCompileInputs.cache
+C:\Users\redbu\Desktop\Study\Programming\FirstProg1\FirstProgUni\obj\Release\netcoreapp3.1\FirstProgUnit.dll
+C:\Users\redbu\Desktop\Study\Programming\FirstProg1\FirstProgUni\obj\Release\netcoreapp3.1\FirstProgUnit.pdb
+C:\Users\redbu\Desktop\Study\Programming\FirstProg1\FirstProgUni\obj\Release\netcoreapp3.1\FirstProgUnit.genruntimeconfig.cache
