@@ -15,7 +15,15 @@ namespace GradeBook
         }
         public void AddGrade(double grade)
         {
-            grades.Add(grade);
+            if (grade <= 100 && grade >= 0)
+            {
+                grades.Add(grade);
+            }
+            else
+            {
+                throw new ArgumentException($"Grade invalid {nameof(grade)}");
+            }    
+
         }
 
         public Statistic GetStatistic()
@@ -29,13 +37,36 @@ namespace GradeBook
             {
                 result.High = Math.Max(grade, result.High);
                 result.Low = Math.Min(grade, result.Low);
-
-                Console.Write(grade);
-                Console.WriteLine();
                 result.Avarage = result.Avarage + grade;
             }
 
+            /*var index = 0;
+            do
+            {
+                result.High = Math.Max(grades[index], result.High);
+                result.Low = Math.Min(grades[index], result.Low);
+                result.Avarage = result.Avarage + grades[index];
+                index += 1;
+            }
+            while (index < grades.Count);*/
+
             result.Avarage = result.Avarage / grades.Count;
+
+            switch (result.Avarage)
+            {
+                case var d when d >= 90.0:
+                    result.Letter = 'A';
+                    break;
+                case var d when d >=75.0 && d < 90.0:
+                    result.Letter = 'B';
+                    break;
+                case var d when d >= 65.0 && d < 75.0:
+                    result.Letter = 'B';
+                    break;
+                default:
+                    result.Letter = 'F';
+                    break;
+            }
 
             return result;
         }
