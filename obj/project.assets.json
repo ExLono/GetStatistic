@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dmitriy\\source\\repos\\Tastk + Unit\\Programm\\Programm.csproj",
+      "projectUniqueName": "C:\\Users\\Dmitriy\\source\\repos\\Task + Unit\\Programm\\Programm.csproj",
       "projectName": "Programm",
-      "projectPath": "C:\\Users\\Dmitriy\\source\\repos\\Tastk + Unit\\Programm\\Programm.csproj",
+      "projectPath": "C:\\Users\\Dmitriy\\source\\repos\\Task + Unit\\Programm\\Programm.csproj",
       "packagesPath": "C:\\Users\\Dmitriy\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Dmitriy\\source\\repos\\Tastk + Unit\\Programm\\obj\\",
+      "outputPath": "C:\\Users\\Dmitriy\\source\\repos\\Task + Unit\\Programm\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Dmitriy\\AppData\\Roaming\\NuGet\\NuGet.Config",
