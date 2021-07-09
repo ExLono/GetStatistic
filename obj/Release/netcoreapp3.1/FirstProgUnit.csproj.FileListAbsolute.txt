@@ -23,3 +23,4 @@ C:\Users\Dmitriy\Source\Repos\FirstProgUnit\obj\Release\netcoreapp3.1\FirstProgU
 C:\Users\Dmitriy\Source\Repos\FirstProgUnit\obj\Release\netcoreapp3.1\FirstProgUnit.dll
 C:\Users\Dmitriy\Source\Repos\FirstProgUnit\obj\Release\netcoreapp3.1\FirstProgUnit.pdb
 C:\Users\Dmitriy\Source\Repos\FirstProgUnit\obj\Release\netcoreapp3.1\FirstProgUnit.genruntimeconfig.cache
+C:\Users\Dmitriy\source\repos\FirstProgUnit\obj\Release\netcoreapp3.1\FirstProgUnit.csproj.AssemblyReference.cache
