@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dmitriy\\Source\\Repos\\FirstProgUnit\\FirstProgUnit.csproj": {}
+    "C:\\Users\\Dmitriy\\source\\repos\\FirstProgUnit\\FirstProgUnit.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dmitriy\\Source\\Repos\\FirstProgUnit\\FirstProgUnit.csproj": {
+    "C:\\Users\\Dmitriy\\source\\repos\\FirstProgUnit\\FirstProgUnit.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dmitriy\\Source\\Repos\\FirstProgUnit\\FirstProgUnit.csproj",
+        "projectUniqueName": "C:\\Users\\Dmitriy\\source\\repos\\FirstProgUnit\\FirstProgUnit.csproj",
         "projectName": "FirstProgUnit",
-        "projectPath": "C:\\Users\\Dmitriy\\Source\\Repos\\FirstProgUnit\\FirstProgUnit.csproj",
+        "projectPath": "C:\\Users\\Dmitriy\\source\\repos\\FirstProgUnit\\FirstProgUnit.csproj",
         "packagesPath": "C:\\Users\\Dmitriy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dmitriy\\Source\\Repos\\FirstProgUnit\\obj\\",
+        "outputPath": "C:\\Users\\Dmitriy\\source\\repos\\FirstProgUnit\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Dmitriy\\AppData\\Roaming\\NuGet\\NuGet.Config",
