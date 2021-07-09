@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AFq626G67X8731E6X79U42WVSzCchdTXjWDt2CRkd9Q3R0yt20iyF0Z4OpJWhpCiBflI9cQihV+h/u5f2d9Udw==",
+  "dgSpecHash": "Vw1aGGbj4//1qgvj4J+3alM+CUpVyUbSMkqnS3MZ3GciGQVJitEeocHilCT70w1Qj/8aFNM3SDPtbz7CpFfDsA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\redbu\\Desktop\\Study\\Programming\\FirstProg1\\FirstProgUni\\FirstProgUnit.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\redbu\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.14\\microsoft.netcore.app.host.win-x64.3.1.14.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\Dmitriy\\Source\\Repos\\FirstProgUnit\\FirstProgUnit.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

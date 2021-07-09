@@ -11,3 +11,15 @@ C:\Users\redbu\Desktop\Study\Programming\FirstProg1\FirstProgUni\obj\Release\net
 C:\Users\redbu\Desktop\Study\Programming\FirstProg1\FirstProgUni\obj\Release\netcoreapp3.1\FirstProgUnit.dll
 C:\Users\redbu\Desktop\Study\Programming\FirstProg1\FirstProgUni\obj\Release\netcoreapp3.1\FirstProgUnit.pdb
 C:\Users\redbu\Desktop\Study\Programming\FirstProg1\FirstProgUni\obj\Release\netcoreapp3.1\FirstProgUnit.genruntimeconfig.cache
+C:\Users\Dmitriy\Source\Repos\FirstProgUnit\bin\Release\netcoreapp3.1\FirstProgUnit.exe
+C:\Users\Dmitriy\Source\Repos\FirstProgUnit\bin\Release\netcoreapp3.1\FirstProgUnit.deps.json
+C:\Users\Dmitriy\Source\Repos\FirstProgUnit\bin\Release\netcoreapp3.1\FirstProgUnit.runtimeconfig.json
+C:\Users\Dmitriy\Source\Repos\FirstProgUnit\bin\Release\netcoreapp3.1\FirstProgUnit.runtimeconfig.dev.json
+C:\Users\Dmitriy\Source\Repos\FirstProgUnit\bin\Release\netcoreapp3.1\FirstProgUnit.dll
+C:\Users\Dmitriy\Source\Repos\FirstProgUnit\bin\Release\netcoreapp3.1\FirstProgUnit.pdb
+C:\Users\Dmitriy\Source\Repos\FirstProgUnit\obj\Release\netcoreapp3.1\FirstProgUnit.AssemblyInfoInputs.cache
+C:\Users\Dmitriy\Source\Repos\FirstProgUnit\obj\Release\netcoreapp3.1\FirstProgUnit.AssemblyInfo.cs
+C:\Users\Dmitriy\Source\Repos\FirstProgUnit\obj\Release\netcoreapp3.1\FirstProgUnit.csproj.CoreCompileInputs.cache
+C:\Users\Dmitriy\Source\Repos\FirstProgUnit\obj\Release\netcoreapp3.1\FirstProgUnit.dll
+C:\Users\Dmitriy\Source\Repos\FirstProgUnit\obj\Release\netcoreapp3.1\FirstProgUnit.pdb
+C:\Users\Dmitriy\Source\Repos\FirstProgUnit\obj\Release\netcoreapp3.1\FirstProgUnit.genruntimeconfig.cache

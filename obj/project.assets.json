@@ -8,25 +8,20 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\redbu\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\Dmitriy\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\redbu\\Desktop\\Study\\Programming\\FirstProg1\\FirstProgUni\\FirstProgUnit.csproj",
+      "projectUniqueName": "C:\\Users\\Dmitriy\\Source\\Repos\\FirstProgUnit\\FirstProgUnit.csproj",
       "projectName": "FirstProgUnit",
-      "projectPath": "C:\\Users\\redbu\\Desktop\\Study\\Programming\\FirstProg1\\FirstProgUni\\FirstProgUnit.csproj",
-      "packagesPath": "C:\\Users\\redbu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\redbu\\Desktop\\Study\\Programming\\FirstProg1\\FirstProgUni\\obj\\",
+      "projectPath": "C:\\Users\\Dmitriy\\Source\\Repos\\FirstProgUnit\\FirstProgUnit.csproj",
+      "packagesPath": "C:\\Users\\Dmitriy\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Dmitriy\\Source\\Repos\\FirstProgUnit\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\"
-      ],
       "configFilePaths": [
-        "C:\\Users\\redbu\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Users\\Dmitriy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
@@ -60,18 +55,12 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.NETCore.App.Host.win-x64",
-            "version": "[3.1.14, 3.1.14]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
       }
     }
   }
