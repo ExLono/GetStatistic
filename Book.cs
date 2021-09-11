@@ -13,6 +13,7 @@ namespace GradeBook
             grades = new List<double>();
             Name = name;
         }
+
         public void AddGrade(double grade)
         {
             if (grade <= 100 && grade >= 0)
@@ -20,9 +21,8 @@ namespace GradeBook
                 grades.Add(grade);
             }
             else
-            {
-                throw new ArgumentException($"Grade invalid {nameof(grade)}");
-            }
+                Console.WriteLine("Insert in correct range");
+        
 
         }
 

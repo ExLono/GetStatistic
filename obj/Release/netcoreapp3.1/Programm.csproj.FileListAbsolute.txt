@@ -11,3 +11,17 @@ C:\Users\Dmitriy\source\repos\Task + Unit\Programm\obj\Release\netcoreapp3.1\Pro
 C:\Users\Dmitriy\source\repos\Task + Unit\Programm\obj\Release\netcoreapp3.1\Programm.dll
 C:\Users\Dmitriy\source\repos\Task + Unit\Programm\obj\Release\netcoreapp3.1\Programm.pdb
 C:\Users\Dmitriy\source\repos\Task + Unit\Programm\obj\Release\netcoreapp3.1\Programm.genruntimeconfig.cache
+C:\Users\Dmitriy\Source\Repos\PluralsightStart1\bin\Release\netcoreapp3.1\Programm.exe
+C:\Users\Dmitriy\Source\Repos\PluralsightStart1\bin\Release\netcoreapp3.1\Programm.deps.json
+C:\Users\Dmitriy\Source\Repos\PluralsightStart1\bin\Release\netcoreapp3.1\Programm.runtimeconfig.json
+C:\Users\Dmitriy\Source\Repos\PluralsightStart1\bin\Release\netcoreapp3.1\Programm.runtimeconfig.dev.json
+C:\Users\Dmitriy\Source\Repos\PluralsightStart1\bin\Release\netcoreapp3.1\Programm.dll
+C:\Users\Dmitriy\Source\Repos\PluralsightStart1\bin\Release\netcoreapp3.1\Programm.pdb
+C:\Users\Dmitriy\Source\Repos\PluralsightStart1\obj\Release\netcoreapp3.1\Programm.csproj.AssemblyReference.cache
+C:\Users\Dmitriy\Source\Repos\PluralsightStart1\obj\Release\netcoreapp3.1\Programm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dmitriy\Source\Repos\PluralsightStart1\obj\Release\netcoreapp3.1\Programm.AssemblyInfoInputs.cache
+C:\Users\Dmitriy\Source\Repos\PluralsightStart1\obj\Release\netcoreapp3.1\Programm.AssemblyInfo.cs
+C:\Users\Dmitriy\Source\Repos\PluralsightStart1\obj\Release\netcoreapp3.1\Programm.csproj.CoreCompileInputs.cache
+C:\Users\Dmitriy\Source\Repos\PluralsightStart1\obj\Release\netcoreapp3.1\Programm.dll
+C:\Users\Dmitriy\Source\Repos\PluralsightStart1\obj\Release\netcoreapp3.1\Programm.pdb
+C:\Users\Dmitriy\Source\Repos\PluralsightStart1\obj\Release\netcoreapp3.1\Programm.genruntimeconfig.cache

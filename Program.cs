@@ -7,11 +7,12 @@ namespace GradeBook
     {
         static void Main(string[] args)
         {
-            var book = new Book("Scott's Grades Book");
+
+            var book = new Book("Grades Book");
 
             while (true)
             {
-                Console.WriteLine("Enter a grade (0-100) or 'Q' to Statistic");
+                Console.Write("Enter a grade (0-100) or 'Q' to Statistic\n");
                 var input = Console.ReadLine();
 
                 if (input == "q" || input == "Q") { break; }
@@ -29,10 +30,7 @@ namespace GradeBook
                 {
                     Console.WriteLine(ex.Message);
                 }
-                finally
-                {
-                    Console.ReadLine();
-                }
+
             }
 
                 /*book.AddGrade(89.1);
